@@ -1,0 +1,10 @@
+body{
+    background-color: beige;
+}
+
+h1{
+    color: blueviolet;
+}
+.greet .currenttime{
+    font-style: italic;
+}
